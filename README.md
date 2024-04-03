@@ -31,6 +31,8 @@ I am a responsible and diligent team player with 3 years of experience in develo
 ### 📊 Github Stats
 
 ![Arestus GitHub stats](https://github-readme-stats.vercel.app/api?username=arestus&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arestus&layout=donut)
+
 
 </a>
 
