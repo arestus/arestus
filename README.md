@@ -18,7 +18,6 @@ I am a responsible and diligent team player with 3 years of experience in develo
 
 - 🔭 &nbsp; I’m currently working at <a href='https://github.com/kanini'><img alt="kanini-logo" src="./assets/kanini-logo.png" height='18px'/></div> Kanini Software Solutions Ukraine</a>
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/yaroslav-khazivaliev/)
-<!-- - 📝 &nbsp; Checkout my [resume] -->
 - 📚 &nbsp; In my free time, I play tennis with friends 🎾, study world history ⛩️, and improve my skills in both English and Spanish 🗿.
 
 <br>
