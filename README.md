@@ -25,7 +25,7 @@ I am a responsible and diligent team player with 3 years of experience in develo
 
 ### 🔨 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=apollo,css,docker,figma,github,graphql,html,js,materialui,nextjs,nodejs,postgres,react,redux,regex,sass,tailwind,ts,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apollo,css,docker,figma,github,graphql,html,js,materialui,nextjs,nodejs,postgres,react,redux,regex,sass,tailwind,ts,vscode&perline=7)](https://skillicons.dev)
 
 <br>
 
