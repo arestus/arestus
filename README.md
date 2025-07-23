@@ -8,7 +8,7 @@
 
 </br>
 </br>
-I am a responsible and diligent team player with 3 years of experience in development. I have worked on both large and complex projects that have been in existence for many years, as well as on creating projects from scratch. I am quick to learn and strive to adapt to new work environments as soon as possible. I am always open and ready for new opportunities and challenges in my work
+I am a responsible and diligent team player with 4 years of experience in development. I have worked on both large and complex projects that have been in existence for many years, as well as on creating projects from scratch. I am quick to learn and strive to adapt to new work environments as soon as possible. I am always open and ready for new opportunities and challenges in my work
 <br/>
 <br/>
 
